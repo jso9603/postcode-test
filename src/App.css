@@ -1,0 +1,19 @@
+.popup_foot {
+  visibility: hidden;
+}
+
+.seachBtn {
+  outline: none;
+  margin: 0 10px 10px 10px;
+  background: #ECECEC;
+}
+
+.zoneCode {
+  margin: 0 10px 0 10px;
+  width: 80px;
+}
+
+.address,
+.address2 {
+  width: 185px;
+}
